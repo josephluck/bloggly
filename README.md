@@ -1,5 +1,7 @@
 # Bloggly
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/josephluck/bloggly.svg)](https://greenkeeper.io/)
+
 An example of using [Helix](http://www.github.com/ohgoodlord/helix) in a blog app.
 
 # Requirements
